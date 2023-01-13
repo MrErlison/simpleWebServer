@@ -1,2 +1,3 @@
-# simpleWebServer
-Substitute for python3 -m http.server
+### simpleWebServer
+
+I made this to substitute for `python3 -m http.server`.
